@@ -87,7 +87,7 @@ All CSV headers use **lowercase_snake_case** format with no spaces for consisten
 
 ## Prerequisites
 
-- Python 3.8 or higher
+- - Python 3.13 (or higher)
 - pip (Python package manager)
 
 ## Installation
